@@ -4,6 +4,8 @@
 This repository contains the official MATLAB implementation for the paper:  
 **"Joint Spatial-Polarization Design for Wireless Communications with Reconfigurable Antenna"**.
 
+![image](sys.png)
+
 The code implements **Alternating Optimization (AO)** algorithms combined with **Riemannian Manifold Optimization (RCG)** for Reconfigurable Antenna systems. It compares the following schemes:
 
 * **Proposed RA Scheme (Proposed Rot+Pol RA + DBF):** This is the proposed architecture where the BS antennas support 3D rotation, and both the BS and user antennas support flexible polarization reconfiguration. Consequently, the digital beamforming matrix $\mathbf{W}$, the rotation matrices $\{\mathbf{R}_m\}$, and the polarization states $(\mathbf{V}, \mathbf{U})$ are jointly optimized to minimize the total transmit power.
