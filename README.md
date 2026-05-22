@@ -1,8 +1,8 @@
-# Polarization-and-Rotatable-Reconfigurable-Antenna
-# Joint Spatial-Polarization Design for Wireless Communications with Reconfigurable Antenna
+
+# Polarization-aware Reconfigurable Antenna Aided Wireless Communications
 
 This repository contains the MATLAB code for the paper:  
-**"Joint Spatial-Polarization Design for Wireless Communications with Reconfigurable Antenna"**.
+**"Polarization-aware Reconfigurable Antenna Aided Wireless Communications"**, which can be found on the link: https://arxiv.org/abs/2603.01166
 
 ![image](sys.png)
 
@@ -26,5 +26,15 @@ Pvs_require.m
 Note: For other simulations mentioned in the paper, please modify the system parameters accordingly.
 ## Bibtex
 ```python
-xxx
+@misc{zhang2026polarizationawarereconfigurableantennaaided,
+      title={Polarization-aware Reconfigurable Antenna Aided Wireless Communications}, 
+      author={Chao Zhang and Hu Zhou and Ruizhe Long and Ying-Chang Liang and Boon-Hee Soong},
+      year={2026},
+      eprint={2603.01166},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={https://arxiv.org/abs/2603.01166}, 
+}
 ```
+
+If you have any questions, please feel free to reach me at: zhang_chao@std.uestc.edu.cn
