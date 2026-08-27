@@ -2,7 +2,7 @@
 # Polarization-aware Reconfigurable Antenna Aided Wireless Communications
 
 This repository contains the MATLAB code for the paper:  
-**"Polarization-aware Reconfigurable Antenna Aided Wireless Communications"**, which can be found on the link: https://arxiv.org/abs/2603.01166
+**"Polarization-aware Reconfigurable Antenna Aided Wireless Communications"**, which can be found on the link: https://ieeexplore.ieee.org/document/11667052
 
 ![image](sys.png)
 
