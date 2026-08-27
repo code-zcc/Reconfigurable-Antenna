@@ -26,15 +26,16 @@ Pvs_require.m
 Note: For other simulations mentioned in the paper, please modify the system parameters accordingly.
 ## Bibtex
 ```python
-@misc{zhang2026polarizationawarereconfigurableantennaaided,
-      title={Polarization-aware Reconfigurable Antenna Aided Wireless Communications}, 
-      author={Chao Zhang and Hu Zhou and Ruizhe Long and Ying-Chang Liang and Boon-Hee Soong},
-      year={2026},
-      eprint={2603.01166},
-      archivePrefix={arXiv},
-      primaryClass={eess.SP},
-      url={https://arxiv.org/abs/2603.01166}, 
-}
+@ARTICLE{zhang2026polarization,
+  author={Zhang, Chao and Zhou, Hu and Long, Ruizhe and Liang, Ying-Chang and Soong, Boon-Hee},
+  journal={IEEE Transactions on Wireless Communications}, 
+  title={Polarization-aware Reconfigurable Antenna Aided Wireless Communications}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Polarization;Antennas;Gain;Optimization;Modeling;Matrices;Arrays;Design methodology;Array signal processing;Vectors;Reconfigurable antenna (RA);Polarization and 3D rotation optimization;directional gain pattern},
+  doi={10.1109/TWC.2026.3724761}}
 ```
 
 If you have any questions, please feel free to reach me at: zhang_chao@std.uestc.edu.cn
